@@ -1,5 +1,7 @@
 # 🧠 HackHeart AutoReport
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)
+
 Un générateur de rapport pentest en ligne de commande (CLI) simple, efficace et personnalisable.
 
 > 🧰 Idéal pour les rapports OSCP-like ou tes propres write-ups techniques, sans te prendre la tête avec le formatage.
