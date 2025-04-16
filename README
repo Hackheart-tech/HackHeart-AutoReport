@@ -1,0 +1,28 @@
+# 🧠 HackHeart AutoReport
+
+Un générateur de rapport pentest en ligne de commande (CLI) simple, efficace et personnalisable.
+
+> 🧰 Idéal pour les rapports OSCP-like ou tes propres write-ups techniques, sans te prendre la tête avec le formatage.
+
+---
+
+## 📦 Fonctionnalités
+
+- Génération interactive de rapport pentest
+- Structuration automatique des sections :
+  - Informations de base (IP, nom machine)
+  - Reconnaissance
+  - Scanning
+  - Exploitation
+  - Escalade de privilèges
+  - Preuves
+- Support Markdown (📄) → exportable vers HTML / PDF
+- Ajout automatique de blocs de preuves (screenshots, hash, etc.)
+- Rapport prêt à intégrer dans ton portfolio / GitHub
+
+---
+
+## 🚀 Lancer le script
+
+```bash
+python3 generator.py
